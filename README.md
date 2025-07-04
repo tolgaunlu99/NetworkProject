@@ -1,6 +1,6 @@
 # Network Fundamentals Project – Packet Tracer Simulation
 
-This project simulates a medium-scale institutional network infrastructure using Cisco Packet Tracer. It includes core services such as DHCP, DNS, web servers, and advanced security and routing protocols.
+This project simulates a medium-scale institutional network infrastructure using Cisco Packet Tracer. It includes core services such as DHCP, DNS, web servers, and advanced security and routing protocols
 
 ## 👨‍💻 Contributor
 - Tolga Ünlü – 200444409  
