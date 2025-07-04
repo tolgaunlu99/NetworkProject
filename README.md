@@ -43,14 +43,9 @@ The project simulates an internal corporate network structure with rented cloud 
   - Dynamic NAT
   - SNMP enabled on R31 (modification tested via PC8)
 
-## 🐞 Known Issues
-
-- ACL syntax for restricting guest VLAN was applied correctly but did not block internet access. This is assumed to be a Cisco Packet Tracer bug.
-
 ## 📁 File Info
 
 - `.pkt` file contains the entire simulation.
-- Full documentation is included in the accompanying report.
 
 ---
 
